@@ -1,7 +1,6 @@
 ---
 name: s2_l2a
-description: Sentinel-2a and Sentinel-2b imagery, processed to Level
-  2A (Surface Reflectance) and converted to Cloud Optimized GeoTIFFs
+description: Sentinel-2A and Sentinel-2B imagery, processed to Level 2A (Surface Reflectance)
 metadata_type: eo3
 
 metadata:
